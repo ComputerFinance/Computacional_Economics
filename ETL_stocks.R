@@ -29,7 +29,7 @@ tickers <- acoes %>% casefold(upper = T) %>% paste0(".SA")
 
 for (i in 1:length(tickers)) {
   X <- getSymbols(tickers[i],
-                  to = "2022-09-07",  # change date as needed
+                  to = "2020-12-31",  # change date as needed
                   auto.assign = F)
   X <- X %>% na.omit
   datas <- index(X)
