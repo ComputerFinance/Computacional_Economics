@@ -11,6 +11,10 @@ This is the repository of the R code associated with the paper "Machine Learning
 | 03-Complete_simulation.R              | Generation of the prediction metrics, such as R², MAE, and residuals, and storing the selected features for the predictions.  |
 
 ## Instructions
+1)
+2)
+3)
+If these steps don't work for you, please [let us know](https://github.com/ComputerFinance/CEJOR/issues) by reporting OS (windows/linux/mac), R version and error code (if any).
 
 ## Issues and bugs
 
