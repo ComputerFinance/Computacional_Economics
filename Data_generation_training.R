@@ -12,7 +12,7 @@ library(doParallel)
 
 options(warn = -1)
 
-# funções auxiliares ----
+# Auxiliary functions ----
 movMeas <- function(x,f,n,...){
   N <- length(x)
   
