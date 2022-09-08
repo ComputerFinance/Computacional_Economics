@@ -18,7 +18,7 @@ library(quantmod)
 
 # Extraction of Ibovespa prices ----
 X <- getSymbols("^BVSP", # change stock as needed
-                to = "2022-09-08", # change date as needed
+                to = "2022-09-07", # change date as needed
                 auto.assign = F)
 X <- X %>% na.omit
 datas <- index(X)
