@@ -11,15 +11,15 @@ This is the repository of the R code associated with the paper "Machine Learning
 | 03-Complete_simulation.R              | Generation of the prediction metrics, such as R², MAE, and residuals, and storing the selected features for the predictions.  |
 
 ## Instructions
-1) Install latest version of R ([link](https://cloud.r-project.org/))
+1) Install latest version of R ([link](https://cloud.r-project.org/)).
 
-2) Install latest version of RStudio ([link](https://rstudio.com/products/rstudio/download/))
+2) Install latest version of RStudio ([link](https://rstudio.com/products/rstudio/download/)).
 
 3) Download [zip file](https://github.com/ComputerFinance/CEJOR/archive/master.zip) from this repository.
 
-4) Unzip the content of zip file in a personal folder
+4) Unzip the content of zip file in a personal folder.
 
-5) Run the first script and the others in the sequence in an orderly way to reproduce all results from the paper. For that, in RStudio, open the R script file and press _control + shift + enter_
+5) Run the first script and the others in the sequence in an orderly way to reproduce all results from the paper. For that, in RStudio, open the R script file and press _control + shift + enter_.
 
 If these steps don't work for you, please [let us know](https://github.com/ComputerFinance/CEJOR/issues) by reporting OS (windows/linux/mac), R version and error code (if any).
 
