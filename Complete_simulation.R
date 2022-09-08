@@ -1,6 +1,7 @@
 rm(list = ls())
 
-setwd("~/Documentos/MESTRADO - PO/APRENDIZADO DE MÁQUINA")
+# Set working directory ----
+setwd("C:/Users/CLIENTE/Documents/CEJOR")
 
 library(magrittr)
 library(fst)
