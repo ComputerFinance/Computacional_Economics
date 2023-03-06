@@ -1,5 +1,5 @@
 # Machine Learning-based Time Series Prediction at Brazilian Stocks Exchange
-This is the repository of the R code associated with the paper "Machine Learning-based Time Series Prediction at Brazilian Stocks Exchange," submitted to the Central European Journal of Operations Research (CEJOR) in November 2022. The full paper is available at CEJOR  ([link]( https://www.springer.com/journal/10100/)).
+This is the repository of the R code associated with the paper "Machine Learning-based Time Series Prediction at Brazilian Stocks Exchange," submitted to the Computational Economics in March 2023. The full paper is available at ([link](https://www.springer.com/journal/10614/)).
 
 ## Available R scripts
 
@@ -15,14 +15,14 @@ This is the repository of the R code associated with the paper "Machine Learning
 
 2) Install latest version of RStudio ([link](https://rstudio.com/products/rstudio/download/)).
 
-3) Download [zip file](https://github.com/ComputerFinance/CEJOR/archive/master.zip) from this repository.
+3) Download [zip file](https://github.com/ComputerFinance/Computational_Economics/archive/master.zip) from this repository.
 
 4) Unzip the content of zip file in a personal folder.
 
 5) Run the first script and the others in the sequence in an orderly way to reproduce all results from the paper. For that, in RStudio, open the R script file and press _control + shift + enter_.
 
-If these steps don't work for you, please [let us know](https://github.com/ComputerFinance/CEJOR/issues) by reporting OS (windows/linux/mac), R version and error code (if any).
+If these steps don't work for you, please [let us know](https://github.com/ComputerFinance/Computational_Economics/issues) by reporting OS (windows/linux/mac), R version and error code (if any).
 
 ## Issues and bugs
 
-If you've found an issue within the code, please use [Git issue system](https://github.com/ComputerFinance/CEJOR/issues). That way everyone will be able to see the history of issues and corrections.
+If you've found an issue within the code, please use [Git issue system](https://github.com/ComputerFinance/Computational_Economics/issues). That way everyone will be able to see the history of issues and corrections.
