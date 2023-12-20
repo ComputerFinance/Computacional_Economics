@@ -1,5 +1,5 @@
 # Machine Learning-based Time Series Prediction at Brazilian Stocks Exchange
-This is the repository of the R code associated with the paper "Machine Learning-based Time Series Prediction at Brazilian Stocks Exchange," submitted to the Computational Economics in December 2023. The full paper is available at ([link]([https://www.springer.com/journal/10614/](https://link.springer.com/article/10.1007/s10614-023-10529-6))).
+This is the repository of the R code associated with the paper "Machine Learning-based Time Series Prediction at Brazilian Stocks Exchange," submitted to the Computational Economics in December 2023. The full paper is available at ([link](https://link.springer.com/article/10.1007/s10614-023-10529-6)).
 
 ## Available R scripts
 
